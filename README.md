@@ -1,4 +1,4 @@
-# Case Study fot Credit Analysis using EDA
+# Case Study for Credit Analysis using EDA
 
   ## Objective of this Case Study
 
